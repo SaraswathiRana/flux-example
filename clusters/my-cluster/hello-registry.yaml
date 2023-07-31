@@ -6,4 +6,4 @@ metadata:
   namespace: flux-system
 spec:
   image: index.docker.io/jsaraswathi/flux-example
-  interval: 5m0s
+  interval: 1m0s
