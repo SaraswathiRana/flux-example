@@ -14,8 +14,5 @@ spec:
         app: hello-kubernetes
     spec:
       containers:
-      - image: index.docker.io/jsaraswathi/flux-example:1.0.6 # {"$imagepolicy": "flux-system:hello-kubernetes"}
+      - image: index.docker.io/jsaraswathi/flux-example:1.0.7 # {"$imagepolicy": "flux-system:hello-kubernetes"}
         name: hello-kubernetes
-
-
-
